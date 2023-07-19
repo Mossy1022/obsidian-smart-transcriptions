@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-smart-transcriptions-plugin",
+	"name": "Smart Transcriptions",
+	"version": "1.0.4",
+	"minAppVersion": "0.9.12",
+	"description": "This is a plugin that transcribes audio and creates custom notes based on your preference",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md/about",
+	"isDesktopOnly": false
+}

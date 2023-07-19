@@ -1,0 +1,9 @@
+/* Sets all the text color to red! */
+body {
+    color: red;
+}
+
+textarea {
+    width: 506px;
+    height: 328px;
+}
